@@ -30,12 +30,12 @@ dictionaryapi.dev
 5. As a user, you’re able to see antonyms of a word
 
 # How to Use
-Enter the word you want to look up and there you the word definition, examples and pronunciation. 
+Enter the word you want to look up and there you go the word definition, examples and pronunciation. 
 
 # Challenges faced 
 1. API limits, that is, the API may lack the meanings of new English words.
 2. Data inaccuracies, for example, some words may have inaccurate definitions and usages.
-3. Cross browser compatibility issues because different browsers interpret HTML, CSS & JavaScript differently hence different results."		
+3. Cross-browser compatibility issues because different browsers interpret HTML, CSS & JavaScript differently hence different results."		
 
 # Support and contact details
 github.com/W0lski.com
