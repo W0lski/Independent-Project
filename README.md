@@ -29,6 +29,9 @@ dictionaryapi.dev
 4. As a user, you’re able to see synonyms of a word 
 5. As a user, you’re able to see antonyms of a word
 
+# How to Use
+Enter the word you want to look up and there you the word definition, examples and pronunciation. 
+
 # Challenges faced 
 1. API limits, that is, the API may lack the meanings of new English words.
 2. Data inaccuracies, for example, some words may have inaccurate definitions and usages.
