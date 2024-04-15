@@ -1,4 +1,7 @@
 /* CSS */
+html {
+    height: 100%;
+}
 * {
     padding: 0;
     margin: 0;
@@ -14,8 +17,7 @@ body {
     height: 100%;
     margin: 0;
     font-family: Lora, sans-serif;
-    background-color: #ae9cff;
-    color: var(--color-fg);
+    background: linear-gradient(#e66465,#ae9cff);
 }
 
 .container {
@@ -111,4 +113,21 @@ body {
 .error {
     margin-top: 80px;
     text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 80px;
+    color: #ffffff;
+    gap: 5px;
+}
+
+.center h2 {
+    font-size: 28px;
+}
+.center p {
+    font-size: 18px;
 }
